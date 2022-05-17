@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Outfit:wght@400;700&display=swap');
+
+/* for mobile */
+
+/* for desktop */
+
+    body {
+        background: hsl(212, 45%, 89%);
+        font-family: 'Outfit', sans-serif;
+    }
+
+    .card {
+        background: none;
+        margin-top: 5em;
+        display: flex;
+        justify-content: center;
+    }
+
+    .box {
+        width: 22em;
+        height: 34em;
+        background-color: hsl(0, 0%, 100%);
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        border-radius: 1em;
+        margin-top: 2em;
+    }
+
+    img {
+        height: 20em;
+        width: auto;
+        margin-top: 1em;
+        border-radius: 1em;
+    }
+
+    .text1 {
+        font-size: 24px;
+        padding: 0px 30px;
+        color: hsl(218, 44%, 22%);
+        font-weight: 700;
+    }
+
+    p {
+        padding: 0px 30px;
+        color: hsl(220, 15%, 55%);
+        font-size: 17px;
+    }
+
+    .footer {
+        margin-top: 2em;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 11px;
+    }
+
+    .attribution a {
+      color: hsl(228, 45%, 44%);
+    }
+
+    
